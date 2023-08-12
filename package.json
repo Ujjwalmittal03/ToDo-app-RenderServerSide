@@ -1,0 +1,18 @@
+{
+  "name": "todoserverrender-main",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/yuvi-bhatnagar/TodoServerRender/assets/108606754/39566930-6114-4ff4-a9f8-aeb7614644a1) # Todo page with header.ejs and data.ejs ![image](https://github.com/yuvi-bhatnagar/TodoServerRender/assets/108606754/33950540-e0d6-4e6c-9c3b-7a89a7bd55dd)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "nodemon": "^3.0.1"
+  }
+}
